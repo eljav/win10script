@@ -29,15 +29,15 @@ $tweaks = @(
 	"CreateRestorePoint",
 	
 	### Chris Titus Tech Additions
-	"TitusRegistryTweaks",
-	"InstallTitusProgs", #REQUIRED FOR OTHER PROGRAM INSTALLS!
-	"Install7Zip",
-	"InstallNotepadplusplus",
-	"InstallIrfanview",
-	"InstallVLC",
-	"InstallAdobe",
-	"InstallBrave",
-	"ChangeDefaultApps",
+	#"TitusRegistryTweaks",
+	#"InstallTitusProgs", #REQUIRED FOR OTHER PROGRAM INSTALLS!
+	#"Install7Zip",
+	#"InstallNotepadplusplus",
+	#"InstallIrfanview",
+	#"InstallVLC",
+	#"InstallAdobe",
+	#"InstallBrave",
+	#"ChangeDefaultApps",
 
 	### Windows Apps
 	"DebloatAll",
